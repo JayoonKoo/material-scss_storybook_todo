@@ -1,1 +1,1 @@
-# meterial scss + story book (todo)
+# material scss + story book (todo)
